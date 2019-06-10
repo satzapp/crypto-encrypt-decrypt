@@ -1,0 +1,20 @@
+{
+  "name": "crypto-encrypt-decrypt",
+  "version": "1.0.0",
+  "description": "My Encryption library functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node JS",
+    "Crypto",
+    "Encryption",
+    "Decryption"
+  ],
+  "author": "Satz <satzapplications@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
